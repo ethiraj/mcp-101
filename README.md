@@ -77,7 +77,7 @@ python mcp_client_test.py
 4. Maps the response to a `WeatherResponse` Pydantic model
 5. Returns structured output
 
-![Architecture Diagram](fastmcp_weather_architecture.png)
+![Architecture Diagram](Screenshot%20from%202025-04-20%2020-58-49.png)
 
 ---
 
