@@ -53,18 +53,19 @@ python mcp_client_test.py
 ---
 
 ## ✅ Sample Output
-```json
+```
 {
-  "location": "London",
-  "latitude": 51.5085,
-  "longitude": -0.1257,
-  "temperature": 61.7,
+  "location": "Houston",
+  "latitude": 29.76328,
+  "longitude": -95.36327,
+  "current_temperature": 77.1,
   "temperature_unit": "°F",
-  "weather_description": "Partly cloudy",
-  "wind_speed": 8.7,
-  "wind_speed_unit": "mph",
+  "weather_description": "Overcast",
+  "current_wind_speed": 10.9,
+  "wind_speed_unit": "mp/h",
   "error": null
 }
+
 ```
 
 ---
